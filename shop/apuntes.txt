@@ -1,0 +1,2 @@
+Esta app es creada con fake store api : https://fakestoreapi.com/docs
+Utilizo tambien tailwindcss: https://tailwindcss.com/docs/guides/angular
